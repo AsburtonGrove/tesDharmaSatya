@@ -1,0 +1,73 @@
+[
+    {
+      "user": "0001",
+      "no_panen": "2405240001.001",
+      "blok": "001",
+      "metode": "manual",
+      "hasil_panen": {
+        "matang": "10",
+        "mentah": "5"
+      }
+    },
+    {
+      "user": "0001",
+      "no_panen": "2405240001.002",
+      "blok": "002",
+      "metode": "manual",
+      "hasil_panen": {
+        "matang": "15",
+        "mentah": "10"
+      }
+    },
+    {
+      "user": "0001",
+      "no_panen": "2405240001.003",
+      "blok": "003",
+      "metode": "mekanis",
+      "hasil_panen": {
+        "matang": "20",
+        "mentah": "10"
+      }
+    },
+    {
+      "user": "0001",
+      "no_panen": "2405240001.004",
+      "blok": "004",
+      "metode": "mekanis",
+      "hasil_panen": {
+        "matang": "10",
+        "mentah": "20"
+      }
+    },
+    {
+      "user": "0002",
+      "no_panen": "2405240001.005",
+      "blok": "005",
+      "metode": "manual",
+      "hasil_panen": {
+        "matang": "15",
+        "mentah": "10"
+      }
+    },
+    {
+      "user": "0002",
+      "no_panen": "2405240001.006",
+      "blok": "006",
+      "metode": "mekanis",
+      "hasil_panen": {
+        "matang": "10",
+        "mentah": "10"
+      }
+    },
+    {
+      "user": "0002",
+      "no_panen": "2405240001.007",
+      "blok": "007",
+      "metode": "manual",
+      "hasil_panen": {
+        "matang": "15",
+        "mentah": "15"
+      }
+    }
+  ]
+  
